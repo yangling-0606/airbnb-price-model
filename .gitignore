@@ -1,0 +1,8 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Slides are handed in separately
+slides/
